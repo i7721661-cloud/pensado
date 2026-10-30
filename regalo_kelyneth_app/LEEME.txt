@@ -1,0 +1,21 @@
+REGALO PARA KELYNETH - APP INSTALABLE
+======================================
+Archivos: index.html, manifest.webmanifest, sw.js y carpeta icons/. Subelos TODOS juntos, sin cambiarles el nombre.
+
+PASO 1 - Subirla a internet (gratis, con GitHub Pages)
+1. En GitHub crea un repositorio nuevo (o abre el que ya tienes).
+   Si hay archivos viejos de la pagina, borralos antes de subir estos.
+2. Descomprime este zip y sube todo su contenido: index.html, manifest.webmanifest, sw.js y la carpeta icons.
+3. Entra a Settings > Pages. En "Branch" elige main y la carpeta / (root) y guarda.
+4. En uno o dos minutos te da el link, algo como https://tuusuario.github.io/turepo/
+
+PASO 2 - Instalarla como app (ella lo hace una sola vez desde el link)
+- Android (Chrome): abre el link y toca "Instalar como app" (dentro de la pagina, en Cartas) o el menu de los tres puntos > "Instalar aplicacion".
+- iPhone (Safari): abre el link, toca Compartir > "Anadir a pantalla de inicio".
+- Computadora (Chrome/Edge): icono de instalar a la derecha de la barra de direcciones.
+
+IMPORTANTE
+- Necesita https (GitHub Pages ya lo trae). Abriendo index.html directo desde el celular NO se instala.
+- Sus datos (favoritos, respuestas, fotos, vales) se guardan en el dispositivo y navegador donde use la app. Si usa la app instalada, que use siempre esa. En iPhone la app instalada guarda aparte de Safari: que no cambie de una a otra.
+- Clave de entrada: chinita
+- Si algun dia cambias archivos y no se ven los cambios, sube tambien sw.js con el nombre de version cambiado (kel-v1 a kel-v2).
